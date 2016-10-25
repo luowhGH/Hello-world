@@ -1,2 +1,5 @@
 # Hello-world
-test
+start to use github.
+- first
+- second
+- third
